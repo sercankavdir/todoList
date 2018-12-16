@@ -1,0 +1,10 @@
+Finish design proposal for client	I promised Mike I'd email website mockups by Friday 22nd April	15-04-2019
+Pickup Doug at the train station	Doug's arriving on March 23 on the 5:00 train	23-03-2018
+Pick up dry cleaning	The clothes should be ready by Wednesday	20-04-2019
+My new todo item	This is a new todo item	17-12-2018
+Item	Test Item	23-12-2018
+Yet another todo item	This is a longer description	25-12-2018
+ShortTest	Demo	11-12-2019
+This is a record	Test Record	15-12-2018
+Item due to tomorrow	Dentist Appointment	16-12-2018
+Today's Todo	Today	15-12-2018
